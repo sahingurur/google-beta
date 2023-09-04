@@ -1,0 +1,34 @@
+.first-box {
+    width: 333px;
+    background-color: #7ee5da;
+    margin: auto;
+    padding: 0%;
+}
+ 
+.second-box {
+    width: 200px;
+    font-size: 13px;
+    background-color: #70CCC2;
+}
+
+.third-box {
+    width: 466px;
+    font-size: 13px;
+    background-color: #62B3AA;
+}
+
+td {
+    width: 1000px;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    font-size: 13px;
+}
+
+
+
